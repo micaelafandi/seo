@@ -1,0 +1,7 @@
+Para optimizar mi página con Seo: 
+
+1. Agregue la metaetiqueta <<description>>, en el "head" con referencia a describir en pocas palabras un atractivo hacia la página de inicio. 
+
+2. Agregue la metaetiqueta <<keywords>>, en el "head" con referencia a resaltar las palabras claves dentro del rubro que según un analisis de google, son las palabras más buscadas. 
+
+3. Cree una hoja de error 404, para que en caso de no encontrar la url escrita con relación al sitio, aparezca dicho error. Y la direccione para ir al inicio nuevamente. 
